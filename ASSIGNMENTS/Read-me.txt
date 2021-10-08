@@ -1,1 +1,6 @@
-
+In this folder i will be saving all the assignments answer.
+Usually you will find the assignments in PDF format as well as ipynb(Note Book) format.
+Assignment file consist of the qustion along with answer(program).
+Thank you.
+if any changes you want me to make in the file , please let me know.
+Thank you
